@@ -12,11 +12,11 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	v3alpha "github.com/zitadel/zitadel-go/v3/example/api/grpc/proto"
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization"
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization/oauth"
-	"github.com/zitadel/zitadel-go/v3/pkg/grpc/middleware"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	v3alpha "github.com/nobletrout/zitadel-go/v3/example/api/grpc/proto"
+	"github.com/nobletrout/zitadel-go/v3/pkg/authorization"
+	"github.com/nobletrout/zitadel-go/v3/pkg/authorization/oauth"
+	"github.com/nobletrout/zitadel-go/v3/pkg/grpc/middleware"
+	"github.com/nobletrout/zitadel-go/v3/pkg/zitadel"
 )
 
 var (

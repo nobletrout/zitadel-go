@@ -7,9 +7,9 @@ import (
 
 	"github.com/zitadel/oidc/v3/pkg/oidc"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/admin"
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel"
-	pb "github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/admin"
+	"github.com/nobletrout/zitadel-go/v3/pkg/client/admin"
+	"github.com/nobletrout/zitadel-go/v3/pkg/client/zitadel"
+	pb "github.com/nobletrout/zitadel-go/v3/pkg/client/zitadel/admin"
 )
 
 var (

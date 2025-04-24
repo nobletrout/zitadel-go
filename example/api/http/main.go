@@ -12,10 +12,10 @@ import (
 
 	"golang.org/x/exp/slog"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization"
-	"github.com/zitadel/zitadel-go/v3/pkg/authorization/oauth"
-	"github.com/zitadel/zitadel-go/v3/pkg/http/middleware"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/nobletrout/zitadel-go/v3/pkg/authorization"
+	"github.com/nobletrout/zitadel-go/v3/pkg/authorization/oauth"
+	"github.com/nobletrout/zitadel-go/v3/pkg/http/middleware"
+	"github.com/nobletrout/zitadel-go/v3/pkg/zitadel"
 )
 
 var (

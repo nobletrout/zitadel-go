@@ -13,9 +13,9 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/authentication"
-	openid "github.com/zitadel/zitadel-go/v3/pkg/authentication/oidc"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/nobletrout/zitadel-go/v3/pkg/authentication"
+	openid "github.com/nobletrout/zitadel-go/v3/pkg/authentication/oidc"
+	"github.com/nobletrout/zitadel-go/v3/pkg/zitadel"
 )
 
 var (

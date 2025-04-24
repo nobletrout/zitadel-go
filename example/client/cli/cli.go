@@ -8,9 +8,9 @@ import (
 	"github.com/zitadel/oidc/v3/pkg/oidc"
 	"golang.org/x/exp/slog"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client"
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/management"
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/nobletrout/zitadel-go/v3/pkg/client"
+	"github.com/nobletrout/zitadel-go/v3/pkg/client/zitadel/management"
+	"github.com/nobletrout/zitadel-go/v3/pkg/zitadel"
 )
 
 var (

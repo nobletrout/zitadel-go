@@ -3,8 +3,8 @@ package v2
 import (
 	"context"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/zitadel"
-	oidc "github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/oidc/v2"
+	"github.com/nobletrout/zitadel-go/v3/pkg/client/zitadel"
+	oidc "github.com/nobletrout/zitadel-go/v3/pkg/client/zitadel/oidc/v2"
 )
 
 type Client struct {

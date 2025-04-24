@@ -7,7 +7,7 @@ import (
 
 	"log/slog"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/zitadel"
+	"github.com/nobletrout/zitadel-go/v3/pkg/zitadel"
 )
 
 const (

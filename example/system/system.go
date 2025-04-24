@@ -5,8 +5,8 @@ import (
 	"flag"
 	"log"
 
-	"github.com/zitadel/zitadel-go/v3/pkg/client/system"
-	pb "github.com/zitadel/zitadel-go/v3/pkg/client/zitadel/system"
+	"github.com/nobletrout/zitadel-go/v3/pkg/client/system"
+	pb "github.com/nobletrout/zitadel-go/v3/pkg/client/zitadel/system"
 )
 
 var (
