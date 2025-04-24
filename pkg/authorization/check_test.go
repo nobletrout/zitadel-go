@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"golang.org/x/exp/slog"
+	"log/slog"
 )
 
 func TestAuthorizer_CheckAuthorization(t *testing.T) {
